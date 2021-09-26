@@ -8,8 +8,8 @@
 
 // Write the function to find the otherAngle obtained.
 function otherAngle(a, b) {
-       //your code here
+  return 180 - (a + b);
 
-  }
+}
 
 //Use SpecRunner to check the Test Cases.
